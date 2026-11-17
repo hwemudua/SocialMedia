@@ -1,0 +1,134 @@
+"NAME","state","county","households","renter_hh","renter_moe","population"
+"Accomack County, Virginia","51","001",14446,4127,468,33335
+"Albemarle County, Virginia","51","003",45912,15643,745,114919
+"Alleghany County, Virginia","51","005",6383,1131,212,14859
+"Amelia County, Virginia","51","007",5417,948,281,13462
+"Amherst County, Virginia","51","009",12694,2432,305,31485
+"Appomattox County, Virginia","51","011",6639,1608,279,16610
+"Arlington County, Virginia","51","013",112027,65806,1318,236254
+"Augusta County, Virginia","51","015",31083,6159,649,78033
+"Bath County, Virginia","51","017",1822,523,142,4100
+"Bedford County, Virginia","51","019",33127,5082,452,80894
+"Bland County, Virginia","51","021",2376,321,112,6199
+"Botetourt County, Virginia","51","023",13220,1913,291,34004
+"Brunswick County, Virginia","51","025",6477,1655,258,15841
+"Buchanan County, Virginia","51","027",7530,1275,249,19415
+"Buckingham County, Virginia","51","029",6274,1423,244,16976
+"Campbell County, Virginia","51","031",22240,5572,606,55312
+"Caroline County, Virginia","51","033",11988,2116,320,32098
+"Carroll County, Virginia","51","035",12576,2879,397,29157
+"Charles City County, Virginia","51","036",2911,400,76,6627
+"Charlotte County, Virginia","51","037",4704,1189,227,11422
+"Chesterfield County, Virginia","51","041",140155,32617,1192,377869
+"Clarke County, Virginia","51","043",5890,1091,220,15216
+"Craig County, Virginia","51","045",1735,282,155,4856
+"Culpeper County, Virginia","51","047",18924,4723,470,54397
+"Cumberland County, Virginia","51","049",4010,965,218,9818
+"Dickenson County, Virginia","51","051",5935,1420,267,13733
+"Dinwiddie County, Virginia","51","053",10661,2174,363,28191
+"Essex County, Virginia","51","057",4447,1257,249,10623
+"Fairfax County, Virginia","51","059",414101,129906,2292,1147837
+"Fauquier County, Virginia","51","061",26720,5654,522,74577
+"Floyd County, Virginia","51","063",6627,1067,220,15593
+"Fluvanna County, Virginia","51","065",10329,1168,307,28092
+"Franklin County, Virginia","51","067",22999,4951,581,55130
+"Frederick County, Virginia","51","069",35385,7317,631,95008
+"Giles County, Virginia","51","071",6698,1413,248,16557
+"Gloucester County, Virginia","51","073",15274,2996,462,39526
+"Goochland County, Virginia","51","075",10342,1558,249,26410
+"Grayson County, Virginia","51","077",6337,1240,191,15287
+"Greene County, Virginia","51","079",8032,1332,270,21155
+"Greensville County, Virginia","51","081",3199,1077,245,11275
+"Halifax County, Virginia","51","083",13613,3458,405,33639
+"Hanover County, Virginia","51","085",42688,7633,544,112879
+"Henrico County, Virginia","51","087",137365,48794,1353,335744
+"Henry County, Virginia","51","089",21043,5226,529,49980
+"Highland County, Virginia","51","091",1003,111,55,2296
+"Isle of Wight County, Virginia","51","093",15756,3130,427,39974
+"James City County, Virginia","51","095",31990,7447,587,81013
+"King and Queen County, Virginia","51","097",3003,729,178,6695
+"King George County, Virginia","51","099",10133,2413,348,27896
+"King William County, Virginia","51","101",7352,818,207,18593
+"Lancaster County, Virginia","51","103",5701,1056,192,10936
+"Lee County, Virginia","51","105",8527,2301,407,21900
+"Loudoun County, Virginia","51","107",143032,31590,1159,432998
+"Louisa County, Virginia","51","109",15561,2765,387,39980
+"Lunenburg County, Virginia","51","111",4771,1362,209,12016
+"Madison County, Virginia","51","113",5482,1217,206,14044
+"Mathews County, Virginia","51","115",3987,636,183,8540
+"Mecklenburg County, Virginia","51","117",13569,4300,459,30516
+"Middlesex County, Virginia","51","119",4772,600,166,10847
+"Montgomery County, Virginia","51","121",36961,16523,787,99101
+"Nelson County, Virginia","51","125",6364,1294,293,14732
+"New Kent County, Virginia","51","127",9263,681,208,25105
+"Northampton County, Virginia","51","131",5437,1841,270,12059
+"Northumberland County, Virginia","51","133",5640,786,266,12188
+"Nottoway County, Virginia","51","135",5611,1874,222,15597
+"Orange County, Virginia","51","137",14856,3168,371,37822
+"Page County, Virginia","51","139",9911,2799,394,23727
+"Patrick County, Virginia","51","141",7781,1796,312,17512
+"Pittsylvania County, Virginia","51","143",25020,5338,553,59856
+"Powhatan County, Virginia","51","145",11325,766,226,31555
+"Prince Edward County, Virginia","51","147",7641,3207,392,21996
+"Prince George County, Virginia","51","149",12919,3314,376,43146
+"Prince William County, Virginia","51","153",156798,40363,1409,488880
+"Pulaski County, Virginia","51","155",14456,3843,387,33687
+"Rappahannock County, Virginia","51","157",2985,794,164,7427
+"Richmond County, Virginia","51","159",3177,805,231,9095
+"Roanoke County, Virginia","51","161",39725,9659,698,97023
+"Rockbridge County, Virginia","51","163",9552,1980,302,22531
+"Rockingham County, Virginia","51","165",32686,8082,604,85600
+"Russell County, Virginia","51","167",10669,2528,331,25538
+"Scott County, Virginia","51","169",9127,2098,215,21479
+"Shenandoah County, Virginia","51","171",17962,4788,480,44925
+"Smyth County, Virginia","51","173",12659,3673,336,29420
+"Southampton County, Virginia","51","175",6868,1641,261,17964
+"Spotsylvania County, Virginia","51","177",52481,10436,801,146603
+"Stafford County, Virginia","51","179",52326,10205,743,163466
+"Surry County, Virginia","51","181",2830,579,132,6549
+"Sussex County, Virginia","51","183",3785,1145,223,10765
+"Tazewell County, Virginia","51","185",16290,4167,421,39624
+"Warren County, Virginia","51","187",15339,3704,467,41531
+"Washington County, Virginia","51","191",22112,5356,508,53926
+"Westmoreland County, Virginia","51","193",8149,1625,314,18826
+"Wise County, Virginia","51","195",13905,3588,409,35448
+"Wythe County, Virginia","51","197",12533,2887,337,28188
+"York County, Virginia","51","199",26968,7656,594,71005
+"Alexandria city, Virginia","51","510",76096,44031,911,156976
+"Bristol city, Virginia","51","520",7226,2628,359,16849
+"Buena Vista city, Virginia","51","530",2554,1111,214,6593
+"Charlottesville city, Virginia","51","540",19815,11048,532,45437
+"Chesapeake city, Virginia","51","550",93626,24011,1193,252583
+"Colonial Heights city, Virginia","51","570",7530,2403,304,18352
+"Covington city, Virginia","51","580",2576,770,147,5680
+"Danville city, Virginia","51","590",19066,9957,541,42214
+"Emporia city, Virginia","51","595",2157,1335,211,5547
+"Fairfax city, Virginia","51","600",9155,2756,349,25026
+"Falls Church city, Virginia","51","610",6273,2978,247,14710
+"Franklin city, Virginia","51","620",3454,1593,250,8250
+"Fredericksburg city, Virginia","51","630",11720,7063,457,28873
+"Galax city, Virginia","51","640",2763,1207,251,6726
+"Hampton city, Virginia","51","650",58057,25011,999,137557
+"Harrisonburg city, Virginia","51","660",17360,10505,444,51392
+"Hopewell city, Virginia","51","670",9255,3896,385,22959
+"Lexington city, Virginia","51","678",2187,1011,257,7525
+"Lynchburg city, Virginia","51","680",28701,14674,711,79497
+"Manassas city, Virginia","51","683",14203,4052,424,42976
+"Manassas Park city, Virginia","51","685",5193,1741,322,16798
+"Martinsville city, Virginia","51","690",5711,2546,302,13658
+"Newport News city, Virginia","51","700",76112,39457,1036,184216
+"Norfolk city, Virginia","51","710",94965,50965,1480,233596
+"Norton city, Virginia","51","720",1605,803,165,3577
+"Petersburg city, Virginia","51","730",15138,9292,578,33537
+"Poquoson city, Virginia","51","735",4728,728,191,12639
+"Portsmouth city, Virginia","51","740",40288,16944,746,97190
+"Radford city, Virginia","51","750",5540,3197,286,16726
+"Richmond city, Virginia","51","760",104321,58914,1197,229359
+"Roanoke city, Virginia","51","770",43575,20723,883,98355
+"Salem city, Virginia","51","775",10256,3815,312,25618
+"Staunton city, Virginia","51","790",11309,4424,394,25948
+"Suffolk city, Virginia","51","800",37908,11092,585,98796
+"Virginia Beach city, Virginia","51","810",179851,62686,1731,456349
+"Waynesboro city, Virginia","51","820",9841,3943,425,22841
+"Williamsburg city, Virginia","51","830",5020,2347,314,15798
+"Winchester city, Virginia","51","840",11492,6481,487,27913
